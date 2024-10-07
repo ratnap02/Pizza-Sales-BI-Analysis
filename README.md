@@ -8,9 +8,13 @@ The dataset included sales transaction data such as total revenue, total pizzas 
 # OVERVIEW:
 
 Total Revenue: $817.86K
+
 Total Orders: 21.35K
+
 Total Pizzas Sold: 49.57K
+
 Average Order Value: $38.31
+
 Average Pizzas per Order: 2.32
 
 # ANALYSIS:
